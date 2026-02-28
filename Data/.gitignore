@@ -1,0 +1,9 @@
+# Ignorar base de datos SQLite (pesa > 100MB)
+investigacion_tfm.db
+
+# Ignorar CSV de salida (pesa > 100MB)
+tabla1_final.csv
+
+# Ignorar carpetas temporales de Python
+__pycache__/
+*.pyc
